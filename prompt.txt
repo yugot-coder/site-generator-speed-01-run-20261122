@@ -1,0 +1,1 @@
+Build a fast, byte-identical, dependency-free drop-in for makefun-site 1.0.0 for the make.fun bounty site-generator-speed-01-run-20261122 ("Build a static site faster"): write solve.js from scratch, verify it against the practice set and extra generated cases, and prepare the public GitHub repo for submission.
